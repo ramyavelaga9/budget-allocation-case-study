@@ -1,6 +1,6 @@
 # Budget allocation case study
 
-A worked demo of a weekly paid-media budget allocation system, built on **synthetic data**. It shows how to move from a loop that chases last week's same-day ROAS to one that values customers over 12 months, respects stock limits, and keeps learning.
+A worked demo of a tiered paid-media budget allocation system, built on synthetic data. A channel envelope sets each channel’s budget, a weekly split decides where it goes, and daily pacing spends it. It shows how to move from a loop that chases last week's same-day ROAS to one that values customers over 12 months, respects stock limits, and keeps learning.
 
 > **Important:** all data is synthetic and was built to contain the problems below. The results show how the pieces fit together. They are not a prediction of what any real business would earn.
 
